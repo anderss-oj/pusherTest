@@ -1,0 +1,16 @@
+{
+  "name": "pushertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "author": "andersTest",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "pusher": "^5.2.0",
+    "vercel": "^34.1.1"
+  }
+}
